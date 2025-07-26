@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Calculator 🧮
 
 A simple, clean, and responsive web-based calculator application. Perfect for your daily calculation needs!
@@ -14,9 +13,8 @@ A simple, clean, and responsive web-based calculator application. Perfect for yo
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your application here)*
+<img width="641" height="858" alt="image" src="https://github.com/user-attachments/assets/73e20d5b-1bc9-43e2-8ac1-041f9b388d7e" />
 
-![Calculator App Screenshot](placeholder.png)
 
 ## 🛠️ Tech Stack
 
@@ -36,11 +34,11 @@ You only need a modern web browser (e.g., Chrome, Firefox, Safari).
 
 1.  Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/frontend-projects.git
+    git clone https://github.com/Shailesh-github3/frontend-projects.git
     ```
 2.  Navigate into the project directory:
     ```sh
-    cd frontend-projects/calculator
+    cd frontend-projects/calculator-app
     ```
 3.  Open the `index.html` file in your web browser.
 
@@ -78,4 +76,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Project Link: https://github.com/your-username/frontend-projects
 =======
 # frontend-projects
->>>>>>> e33b347bdb16de6d9ef95ae124e943a4bc2d0084
